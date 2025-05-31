@@ -1,27 +1,31 @@
-# package_name
+# calculadora
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+## Descrição
 
-## Installation
+O pacote **calculadora** é utilizado para:  
+- Calcular operações simples, como:  
+  * Soma,  
+  * Subtração,  
+  * Multiplicação,  
+  * Divisão,  
+  * Potenciação,  
+  * Raiz Quadrada  
+- Limpar o terminal  
+- Exibir um menu interativo
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Instalação
+
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar a **calculadora**:
 
 ```bash
-pip install package_name
-```
+pip install calculadora
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from calculadora.menu import menu
+menu()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Gustavo Félix
