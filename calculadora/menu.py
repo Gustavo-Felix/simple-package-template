@@ -1,4 +1,4 @@
-from calculos import soma, subtracao, multiplicacao, divisao, potencia, raiz_quadrada, limpa_terminal
+from .calculos import soma, subtracao, multiplicacao, divisao, potencia, raiz_quadrada, limpa_terminal
 import time
 
 def menu():
