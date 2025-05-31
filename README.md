@@ -1,8 +1,8 @@
-# calculadora
+# calculadora-gustavo-felix
 
 ## Descrição
 
-O pacote **calculadora** é utilizado para:  
+O pacote **calculadora-gustavo-felix** é utilizado para:  
 - Calcular operações simples, como:  
   * Soma,  
   * Subtração,  
@@ -15,10 +15,10 @@ O pacote **calculadora** é utilizado para:
 
 ## Instalação
 
-Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar a **calculadora**:
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar a **calculadora-gustavo-felix**:
 
 ```bash
-pip install calculadora
+pip install calculadora-gustavo-felix
 
 ## Usage
 
