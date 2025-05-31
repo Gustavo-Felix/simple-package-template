@@ -19,6 +19,7 @@ Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar
 
 ```bash
 pip install calculadora-gustavo-felix
+```
 
 ## Usage
 
